@@ -10,8 +10,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 Before running the program, make sure you have the following installed:
 
-- Python 3.x
-- pip (Python package manager)
+- Python 3.x.
+- pip (Python package manager).
 
 ### Installation
 
